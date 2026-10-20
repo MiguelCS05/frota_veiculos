@@ -1,4 +1,4 @@
-import { veiculosRouter } from "./routes/Veiculos.Route.js";
+import { veiculosRouter } from "./routes/veiculo.routes.js";
 import express from "express";
 
 const port = 3000
